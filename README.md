@@ -23,7 +23,7 @@ Sort packages into the correct stack:
 .
 ├── sort.py         # Main sorting logic
 ├── test_sort.py    # Unit tests using unittest
-└── README.md                 # This file
+└── README.md       # This file
 
 ## Usage
 
@@ -38,7 +38,7 @@ Import and use the sort function:
 
 Run all tests:
 
-    python test_package_sorter.py
+    python test_sort.py
 
 Or using discovery:
 
